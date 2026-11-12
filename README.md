@@ -17,7 +17,7 @@ Below is the list of projects included in this repository. Click on the project 
 | **Price Calculator** | [https://roadmap.sh/projects/js-price-calculator](https://roadmap.sh/projects/js-price-calculator) | JavaScript | [View Directory](https://github.com/ramadhanzakki/javascript-project-roadmap.sh/blob/main/PriceCalculator.js) |
 | **Cart Total Calculator** | [https://roadmap.sh/projects/js-cart-total-calculator](hhttps://roadmap.sh/projects/js-cart-total-calculator) | JavaScript | [View Directory](https://github.com/ramadhanzakki/javascript-project-roadmap.sh/blob/main/CartTotalCalculator.js) |
 | **Grade Report Generator** | [https://roadmap.sh/projects/js-grade-report-generator](https://roadmap.sh/projects/js-grade-report-generator) | JavaScript | [View Directory](https://github.com/ramadhanzakki/javascript-project-roadmap.sh/blob/main/GradeReportGenerator.js) |
-| **Task List Utilities** | [https://roadmap.sh/projects/js-task-list-utilities](https://roadmap.sh/projects/js-task-list-utilities) | JavaScript | [View Directory]() |
+| **Task List Utilities** | [https://roadmap.sh/projects/js-task-list-utilities](https://roadmap.sh/projects/js-task-list-utilities) | JavaScript | [View Directory](https://github.com/ramadhanzakki/javascript-project-roadmap.sh/blob/main/TaskListUtilities.js) |
 | **Expense Summary** | [https://roadmap.sh/projects/js-expense-summary](https://roadmap.sh/projects/js-expense-summary) | JavaScript | [View Directory]() |
 
 ---
