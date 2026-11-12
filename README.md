@@ -12,7 +12,7 @@ Below is the list of projects included in this repository. Click on the project 
 | :--- | :--- | :--- | :--- |
 | **Greeting Builder** | [https://roadmap.sh/projects/js-greeting-builder](https://roadmap.sh/projects/js-greeting-builder) | JavaScript | [View Directory](https://github.com/ramadhanzakki/javascript-project-roadmap.sh/blob/main/GreatingBuilder.js) |
 | **Temperature Converter** | [https://roadmap.sh/projects/js-temperature-converter](https://roadmap.sh/projects/js-temperature-converter) | JavaScript | [View Directory](https://github.com/ramadhanzakki/javascript-project-roadmap.sh/blob/main/TemperatureConverter.js) |
-| **Number Checker** | [https://roadmap.sh/projects/js-number-checker](https://roadmap.sh/projects/js-number-checker) | JavaScript | [View Directory]() |
+| **Number Checker** | [https://roadmap.sh/projects/js-number-checker](https://roadmap.sh/projects/js-number-checker) | JavaScript | [View Directory](https://github.com/ramadhanzakki/javascript-project-roadmap.sh/blob/main/NumberChecker.js) |
 | **String Formatter** | [https://roadmap.sh/projects/js-string-formatter](https://roadmap.sh/projects/js-string-formatter) | JavaScript | [View Directory]() |
 | **Price Calculator** | [https://roadmap.sh/projects/js-price-calculator](https://roadmap.sh/projects/js-price-calculator) | JavaScript | [View Directory]() |
 | **Cart Total Calculator** | [https://roadmap.sh/projects/js-cart-total-calculator](hhttps://roadmap.sh/projects/js-cart-total-calculator) | JavaScript | [View Directory]() |
