@@ -20,6 +20,7 @@ Below is the list of projects included in this repository. Click on the project 
 | **Task List Utilities** | [https://roadmap.sh/projects/js-task-list-utilities](https://roadmap.sh/projects/js-task-list-utilities) | JavaScript | [View Directory](https://github.com/ramadhanzakki/javascript-project-roadmap.sh/blob/main/TaskListUtilities.js) |
 | **Expense Summary** | [https://roadmap.sh/projects/js-expense-summary](https://roadmap.sh/projects/js-expense-summary) | JavaScript | [View Directory](https://github.com/ramadhanzakki/javascript-project-roadmap.sh/blob/main/ExpenseSumary.js) |
 | **Product Search & Filter** | [https://roadmap.sh/projects/js-product-search-and-filter](https://roadmap.sh/projects/js-product-search-and-filter) | JavaScript | [View Directory](https://github.com/ramadhanzakki/javascript-project-roadmap.sh/blob/main/ProductSearchAndFilter.js) |
+| **User Profile Formatter** | [https://roadmap.sh/projects/js-user-profile-formatter](https://roadmap.sh/projects/js-user-profile-formatter) | JavaScript | [View Directory](https://github.com/ramadhanzakki/javascript-project-roadmap.sh/blob/main/UserProfileFormater.js) |
 
 ---
 
